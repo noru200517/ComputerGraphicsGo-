@@ -1,7 +1,7 @@
 # ComputerGraphicsGo-
 Hail Computer Graphics!
 
-This is a repository for my CG course, and it serve as my git practice as well.
+This is a repository for my CG course, and it serves as my git practice as well.
 
 ------
 
